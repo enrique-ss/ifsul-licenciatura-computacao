@@ -56,8 +56,6 @@ Esse padrão garante consistência e facilita revisão futura.
 - Compartilhar conhecimento  
 - Registrar a evolução do aprendizado
 
-Este material **não substitui** aulas oficiais nem materiais institucionais.
-
 ---
 
 ## ⚠️ Observação
