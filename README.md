@@ -2,7 +2,7 @@
 
 Este repositório contém minhas **anotações pessoais de aula** ao longo do curso de Licenciatura em Computação no IFSUL.
 
-O objetivo é registrar o conteúdo de forma clara, organizada e reutilizável, usando **Markdown**, com foco em lógica, conceitos e exemplos — não apenas código.
+O objetivo é registrar o conteúdo de forma clara, organizada e reutilizável, usando **Markdown**, com foco em lógica, dúdivas, exemplos e códigos.
 
 ---
 
