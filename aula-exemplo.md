@@ -1,6 +1,7 @@
 ## (TÍTULO) Introdução à Lógica de Programação
 
 **Data:** (DATA) 10/03/2026  
+**Professor: Nome**
 
 ---
 
