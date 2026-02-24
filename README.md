@@ -1,63 +1,19 @@
-# 📘 IFSUL – Licenciatura em Computação
+# IFSul | Licenciatura em Computação
 
-Este repositório contém minhas **anotações pessoais de aula** ao longo do curso de Licenciatura em Computação no IFSUL.
+Anotações pessoais de aula do curso de Licenciatura em Computação no IFSul. Organizadas por semestre e matéria, escritas em Markdown com foco em lógica, exemplos, dúvidas e códigos.
 
-O objetivo é registrar o conteúdo de forma clara, organizada e reutilizável, usando **Markdown**, com foco em lógica, dúdivas, exemplos e códigos.
+## Estrutura
 
----
+Cada semestre tem uma pasta com subpastas por matéria. Cada arquivo de aula segue um padrão fixo: título, data, conteúdo, exemplos, exercícios para praticar, dúvidas e observações pessoais.
 
-## 🗂 Estrutura do repositório
+## Fluxo de uso
 
-As anotações seguem a hierarquia:
+Anotações rápidas no mobile durante a aula, organização e revisão no VS Code depois, versionamento via Git.
 
-Semestre  
-└── Matéria  
-  └── Aula (arquivo .md)
+## Observação
 
-Exemplo:
-
-1-semestre/  
-├── algoritmos/  
-│   ├── aula-01.md  
-│   ├── aula-02.md  
-├── matematica-discreta/  
-│   ├── aula-01.md  
+As anotações refletem meu entendimento no momento de cada aula e podem ser ajustadas ao longo do curso.
 
 ---
 
-## 📝 Estrutura padrão de cada aula
-
-Cada arquivo de aula (`aula-XX.md`) segue o padrão:
-
-- Título  
-- Data  
-- Conteúdo  
-- Exemplos  
-- Praticar  
-- Dúvidas (com respostas quando possível)  
-- Observações pessoais (opcional)  
-- Referências (opcional)
-
-Esse padrão garante consistência e facilita revisão futura.
-
----
-
-## ✍️ Fluxo de uso
-
-- Mobile: anotações rápidas e brutas  
-- PC (VS Code): organização no padrão do repositório  
-- Sincronização e versionamento via Git/GitHub
-
----
-
-## 🎯 Objetivo
-
-- Servir como caderno digital do curso  
-- Compartilhar conhecimento  
-- Registrar a evolução do aprendizado
-
----
-
-## ⚠️ Observação
-
-As anotações refletem meu entendimento no momento de cada aula e podem sofrer ajustes ao longo do curso.
+Desenvolvido por Luiz Enrique.
